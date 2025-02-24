@@ -47,12 +47,12 @@ After building, execute the program:
 
 Ensure payments.txt and currency_rates.txt are in the same directory before running.
 
-## **🧪 How to Run the Unit Tests** ##
+## How to Run the Unit Tests: ##
 To verify the application with unit tests, run:
 
 `mvn test`
 
-## 📌 Key points to remember:
+## Key points to remember:
 - If a currency exchange rate is missing, transactions in that currency are not converted.
 
 - The program must be run from the same directory as payments.txt and currency_rates.txt.
