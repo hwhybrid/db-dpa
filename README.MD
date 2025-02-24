@@ -25,7 +25,7 @@ Before running the application, ensure you have:
 
 ---
 
-### **2️. Ensure Input Files Are Present**
+### 2️. Ensure Input Files Are Present
 **Before running the program, ensure the following files are in the root directory:*
 - Payment transactions file:  
   `payments.txt ` 
@@ -45,7 +45,6 @@ After building, execute the program:
 
 `java -jar target/DailyPaymentsAggregator-1.0-SNAPSHOT-jar-with-dependencies.jar` 
 
-Ensure payments.txt and currency_rates.txt are in the same directory before running.
 
 ## How to Run the Unit Tests: ##
 To verify the application with unit tests, run:
